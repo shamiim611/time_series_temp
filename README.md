@@ -11,8 +11,8 @@ This repository demonstrates my understanding of univariate time series analysis
 
 
 ## Notebooks
-- **[Linear Regression](notebooks/linea.ipynb)**: Basic linear regression model for time series forecasting.
-- **[AutoRegressive Models](notebooks/autoregressive_models.ipynb)**: Implementation of AutoRegressive models and their evaluation. Analysis and forecasting using the ARIMA model.
+- **[https://github.com/shamiim611/time_series_temp/blob/main/linearregression_timeseries.ipynb)**: Basic linear regression model for time series forecasting.
+- **[https://github.com/shamiim611/time_series_temp/blob/main/Autoreg_MODEL.ipynb)**: Implementation of AutoRegressive models and their evaluation. Analysis and forecasting using the ARIMA model.
   
 
 ## Concepts Explored
